@@ -13,6 +13,7 @@ class tdxhq(object):
         pass
     
     def TdxHq_Connect(self,host,port):
+        
         pass
     
     def TdxHq_Disconnect(self):
